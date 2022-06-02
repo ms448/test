@@ -7,4 +7,4 @@ spec:
   - name: t-5
     image: busybox
     command: ["sleep" , "360000"]
-  nodeName: test04
+    
